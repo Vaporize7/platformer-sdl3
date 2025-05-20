@@ -2,10 +2,11 @@
 
 ## 基于SDL3图形库，使用C语言编写的平台跳跃游戏
 
+### 准备工作
+    git clone https://github.com/libsdl-org/SDL ./vendored/SDL
+
 ### 编译
-    git clone https://  
-    cmake ./platformer-sdl3  
-    make ./platformer-sdl3  
+    使用cmake 
 
 ### 运行
     ./platformer-sdl3.exe
